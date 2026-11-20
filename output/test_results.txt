@@ -1,0 +1,5 @@
+PASS test_sort
+PASS test_knapsack_vs_bruteforce
+PASS test_dijkstra_known
+PASS test_route_visits_all
+PASS test_greedy_fails_dp_wins

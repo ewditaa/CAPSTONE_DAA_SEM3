@@ -1,0 +1,2 @@
+Counter-example, capacity 50 kg, parcels (kg,value): (10,60) (20,100) (30,120)
+Greedy by value/weight ratio: 160 | DP optimum: 220

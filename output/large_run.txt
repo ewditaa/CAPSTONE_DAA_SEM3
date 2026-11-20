@@ -1,0 +1,7 @@
+LARGE DATASET: 200 nodes, 300 parcels, capacity 150 kg
+Loaded 62 parcels, weight 150 kg, best priority 4260
+Greedy would give 4260
+Stops visited: 58, route length: 576
+  sort               1.23 ms
+  knapsack          10.41 ms
+  dijkstra+tsp      17.45 ms
